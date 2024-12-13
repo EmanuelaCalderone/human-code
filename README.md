@@ -24,13 +24,12 @@ Dopo averle sfilate dal pacchetto, me le passo tra le mani controllando nell’a
     - attacco la figurina sull'album
 
         SE trovo l'ultima figurina dell'album 
-            - attacco la figurina
             - concludo l'album
         ALTRIMENTI
             - continuo a controllare le figurine
 
 <!--FINE LOOP-->
-    FINCHÈ non ho controllato tutte le figurine del pacchetto
+    FINCHÉ non ho controllato tutte le figurine del pacchetto
         - si ripete il loop
 
 - Chiudo l'album
